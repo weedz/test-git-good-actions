@@ -8,3 +8,5 @@ Test #2
 Test 3
 
 Test with libgit@1.1 - nodegit.alpha?
+
+Test with NodeGit.Credential
