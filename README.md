@@ -10,3 +10,5 @@ Test 3
 Test with libgit@1.1 - nodegit.alpha?
 
 Test with NodeGit.Credential, and with NodeGit.Cred
+
+Test upstream with different name?
