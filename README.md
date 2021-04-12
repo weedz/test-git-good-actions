@@ -13,4 +13,4 @@ Test with NodeGit.Credential, and with NodeGit.Cred
 
 test
 
-Test fetch?
+Test fetch? 1
