@@ -12,3 +12,5 @@ Test with libgit@1.1 - nodegit.alpha?
 Test with NodeGit.Credential, and with NodeGit.Cred
 
 test
+
+Test fetch?
