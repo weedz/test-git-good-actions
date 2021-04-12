@@ -14,3 +14,5 @@ Test with NodeGit.Credential, and with NodeGit.Cred
 test
 
 Test fetch? 1
+
+test commit
