@@ -16,3 +16,5 @@ test
 Test fetch? 1
 
 test commit
+
+commit on renamed file
